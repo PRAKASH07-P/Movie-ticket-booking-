@@ -14,8 +14,7 @@ Java,
 Spring Boot,
 Spring Data JPA,
 Postman,
-PostgreSQL Database and
-Docker
+MySQL Database 
 
 ## API Endpoints
 * GET /movie: Get a list of movies.
